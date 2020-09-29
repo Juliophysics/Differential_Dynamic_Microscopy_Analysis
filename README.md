@@ -1,5 +1,5 @@
 # Data_analysis_physics
 
-This is a set of programs developed for my B. S and my M. Sc degrees in Physics 
+This is a program for DDM analysis, for now it works with my parameters, but it can be easily adapted to work with any parameters
 
 
